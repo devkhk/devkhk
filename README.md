@@ -8,6 +8,3 @@
 devkhk/devkhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# link define
-[개발 블로그]: https://devkhk.tistory.com
-[이력]: https://devkhk.github.io/
