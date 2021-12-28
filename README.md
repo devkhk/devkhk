@@ -2,6 +2,7 @@
 - 👀 저는 DevOps 와 Data PipeLine Engineering 에 관심이 많습니다.
 - 🌱 현재 AWS Cloud 환경에서 Data PipeLine을 공부를 하고 있습니다.
 - ✏️ <a href='https://devkhk.tistory.com' target='_blank'>개발 블로그</a>
+- <a href="https://devkhk.tistory.com/" target="_blank">example</a>
 - 📫 <a href='https://devkhk.github.io' target='_blank'>이력 링크</a>
 
 <!---
