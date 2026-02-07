@@ -1,6 +1,6 @@
-- 👋 안녕하세요! 오늘 모르면 내일은 아는 신입 개발자 김광현입니다.
-- 👀 저는 DevOps 와 Data PipeLine Engineering 에 관심이 많습니다.
-- 🌱 현재 Data Engineering을 공부 하고 있습니다.
+- 👋 안녕하세요! 데이터가 가진 힘을 믿고, 데이터로 더 큰 가치를 만들고 싶은 엔지니어 김광현입니다.
+- 👀 저는 전사 데이터플랫폼 통합/운영하는 경험을 갖고 있습니다.
+- 🌱 현재 Nol Universe 에서 데이터 엔지니어로 근무하고 있습니다.
 - ✏️ 개발 블로그 : https://devkhk.tistory.com
 - 📫 이력 링크 : https://devkhk.github.io
 
